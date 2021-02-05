@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "question": "À quelle particularité le poisson-clown, comme le célèbre Nemo, doit-il son nom ?",
+        "propositions": [
+          "Ses couleurs vives",
+          "Son nez rouge",
+          "Ses grimaces",
+          "Ses cabrioles"
+        ],
+        "réponse": "Ses couleurs vives",
+        "anecdote": "Les poissons-clowns sont connus pour la relation mutualiste qu'ils forment avec dix espèces d'anémones de mer."
+    },
+    {
+        "id": 2,
+        "question": "Comment se prénomme la petite sirène de Disney dans le film du même nom ?",
+        "propositions": [
+          "Yasmine",
+          "Aurore",
+          "Mulan",
+          "Ariel"
+        ],
+        "réponse": "Ariel",
+        "anecdote": "Sorti en 1989, le long-métrage de Disney s'inspire du conte du même nom écrit par Hans Christian Andersen et publié en 1836."
+      },
+      {
+        "id": 3,
+        "question": "À quelle classe d'animaux les dauphins blancs ou gris appartiennent-ils ?",
+        "propositions": [
+          "Les amphibiens",
+          "Les mammifères",
+          "Les reptiles",
+          "Les poissons"
+        ],
+        "réponse": "Les mammifères",
+        "anecdote": "« Dauphin » est un nom ambigu désignant certains mammifères marins et fluviaux appartenant à l'ordre des Cétacés."
+      },
+      {
+        "id": 4,
+        "question": "Quel mets fin est composé d'oeufs d'esturgeon noirs non fécondés ?",
+        "propositions": [
+          "Le surimi",
+          "La coque",
+          "Le caviar",
+          "Le frai"
+        ],
+        "réponse": "Le caviar",
+        "anecdote": "Le caractère du caviar ne provient pas de son origine mais de l'espèce d'esturgeon qui produit les oeufs, au nombre de vingt-sept."
+      },
+      {
+        "id": 5,
+        "question": "Quelle partie du corps des poissons leur permettent de respirer ?",
+        "propositions": [
+          "Poumons",
+          "Nez",
+          "Écailles",
+          "Branchies"
+        ],
+        "réponse": "Branchies",
+        "anecdote": "Outre leur rôle dans la respiration, les branchies servent à piéger de la nourriture notamment chez les microphages filtreurs."
+      },
+      {
+        "id": 6,
+        "question": "Que forment un grand nombre de poissons qui nagent ensemble ?",
+        "propositions": [
+          "Une troupe",
+          "Un banc",
+          "Une armée",
+          "Un groupe"
+        ],
+        "réponse": "Un banc",
+        "anecdote": "À la différence d'autres structures sociales, comme le harem ou la société, il n'existe aucune hiérarchie dans un banc."
+      },
+      {
+        "id": 7,
+        "question": "Laquelle de ces eaux ne trouve-t-on que très peu dans la nature ?",
+        "propositions": [
+          "Eau douce",
+          "Eau saumâtre",
+          "Eau gazeuse",
+          "Eau salée"
+        ],
+        "réponse": "Eau gazeuse",
+        "anecdote": "Au XXe siècle, l'eau gazeuse était utilisée pour arrêter les vomissements et aider le fonctionnement des sucs gastriques."
+      },
+      {
+        "id": 8,
+        "question": "Quel bateau peut naviguer une semaine sous l'eau sans remonter à la surface ?",
+        "propositions": [
+          "Un croiseur",
+          "Un submersible",
+          "Un torpilleur",
+          "Un sous-marin"
+        ],
+        "réponse": "Un sous-marin",
+        "anecdote": "L'usage civil du sous-marin concerne, pour l'essentiel, la recherche océanographique et l'exploitation pétrolière."
+      },
+      {
+        "id": 9,
+        "question": "Dans quel film de Simon Wincer une orque est-elle libérée d'un parc d'attraction ?",
+        "propositions": [
+          "Jaws",
+          "Sauvez Willy",
+          "Flipper",
+          "Le Monde de Nemo"
+        ],
+        "réponse": "Sauvez Willy",
+        "anecdote": "L'orque Keiko, vedette du film, est décédée à l'âge de 27 ans des suites d'une pneumonie dans le fjord norvégien d'Arasvik."
+      },
+      {
+        "id": 10,
+        "question": "Quel paquebot de luxe heurta un iceberg lors de son premier voyage en 1912 ?",
+        "propositions": [
+          "L'Atlantic",
+          "Le Brittanic",
+          "Le Titanic",
+          "L'Olympic"
+        ],
+        "réponse": "Le Titanic",
+        "anecdote": "Le Titanic a été conçu par les architectes Alexander Montgomery Carlisle et Thomas Andrews des chantiers navals Harland et Wolff."
+      }
+]
